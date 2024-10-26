@@ -1,0 +1,60 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "moviename": "Inception",
+            "genre": "Sci-Fi",
+            "rating": "8.8",
+            "language": "English",
+            "cast": [
+                "Leonardo DiCaprio",
+                "Joseph Gordon-Levitt"
+            ],
+            "crew": [
+                "Christopher Nolan"
+            ]
+        },
+        {
+            "id": 2,
+            "moviename": "Interstellar",
+            "genre": "Sci-Fi",
+            "rating": "8.6",
+            "language": "English",
+            "cast": [
+                "Matthew McConaughey",
+                "Anne Hathaway"
+            ],
+            "crew": [
+                "Christopher Nolan"
+            ]
+        },
+        {
+            "id": 3,
+            "moviename": "Smile 2",
+            "genre": "Thriller",
+            "rating": "7.2",
+            "language": "English",
+            "cast": [
+                "Naomi Scott",
+                "Rosemarie DeWitt"
+            ],
+            "crew": [
+                "Parker Finn"
+            ]
+        },
+        {
+            "id": 4,
+            "moviename": "Black",
+            "genre": "Thriller",
+            "rating": "7.5",
+            "language": "Tamil",
+            "cast": [
+                "Lukas Gage",
+                "Miles Gutierrez-Riley"
+            ],
+            "crew": [
+                "Peter Jacobson"
+            ]
+        }
+    ]
+}
